@@ -37,7 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   dart_openai: ^1.5.5
   envied: ^0.3.0
-  bubble: ^1.2.1
+  chat_bubbles: ^1.4.1
+  markdown_widget: ^2.0.0+1
 
 dev_dependencies:
   flutter_test:
